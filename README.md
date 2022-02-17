@@ -1,4 +1,4 @@
-# IOT-device-platform
+# IOT device and platform
 It's the course lectured by professor Yu-Chi Zheng.
 The repository is used to record the learning process.
 The course is mainly use Arduino Uno board and some sensors.
